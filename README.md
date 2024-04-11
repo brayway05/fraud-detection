@@ -30,4 +30,7 @@ conda activate fraud-detection
 pip install -r requirements.txt
 ```
 
-### [Report here](/report/conference_report.pdf)
+### [Report here](/report.pdf)
+
+### Metrics
+<img width="971" alt="Screenshot 2024-04-11 at 3 28 55 PM" src="https://github.com/brayway05/fraud-detection/assets/61756717/e217a9d6-1366-4caf-adfe-fe2aa5435aa3">
