@@ -9,5 +9,8 @@ pip install -r requirements.txt
 ```
 
 ### Data Notes:
-- card_transdata is from kaggle
-- complaints is from gov
+- card_transdata (kaggle)
+- anonymous_data (kaggle)
+
+## Credit Card Fraud Detection
+- 
